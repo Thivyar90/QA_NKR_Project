@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <groups>
+    <define name="food">
+          <include name="NonVeg"></include>
+          <include name="Veg"></include>
+    </define>
+    <define name="gadgets">
+          <include name="Laptops"></include>
+          <include name="Mobiles"></include>
+    </define>
+    <define name="All">
+          <include name="NonVeg"></include>
+          <include name="Veg"></include>
+          <include name="Laptops"></include>
+          <include name="Mobiles"></include>
+    </define>
+    <run>
+         <include name="All"></include>
+         <exclude name="Laptops"></exclude>
+    </run>
+    </groups>
+    <classes>
+      <class name="com.testNG.GroupsTesting"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

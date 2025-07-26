@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-26T00:27:59 IST" name="Suite" finished-at="2025-07-26T00:28:39 IST" duration-ms="40348">
+    <groups>
+    </groups>
+    <test started-at="2025-07-26T00:27:59 IST" name="Test" finished-at="2025-07-26T00:28:39 IST" duration-ms="40348">
+      <class name="com.testNG.InvocationCountTesting">
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:27:59 IST" name="facebook" finished-at="2025-07-26T00:28:05 IST" duration-ms="6384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:28:05 IST" name="facebook" finished-at="2025-07-26T00:28:09 IST" duration-ms="3971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:28:09 IST" name="facebook" finished-at="2025-07-26T00:28:13 IST" duration-ms="3725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:28:13 IST" name="facebook" finished-at="2025-07-26T00:28:16 IST" duration-ms="3637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:28:16 IST" name="facebook" finished-at="2025-07-26T00:28:20 IST" duration-ms="3590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:28:20 IST" name="facebook" finished-at="2025-07-26T00:28:24 IST" duration-ms="3785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:28:24 IST" name="facebook" finished-at="2025-07-26T00:28:27 IST" duration-ms="3532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:28:27 IST" name="facebook" finished-at="2025-07-26T00:28:31 IST" duration-ms="3745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:28:31 IST" name="facebook" finished-at="2025-07-26T00:28:35 IST" duration-ms="3966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="facebook()[pri:0, instance:com.testNG.InvocationCountTesting@33c911a1]" started-at="2025-07-26T00:28:35 IST" name="facebook" finished-at="2025-07-26T00:28:39 IST" duration-ms="3929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+      </class> <!-- com.testNG.InvocationCountTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
